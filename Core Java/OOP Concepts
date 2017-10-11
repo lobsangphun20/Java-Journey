@@ -1,0 +1,11 @@
+# Object-Oriented Programming Concepts
+### What is an Object?
+Object are just like real world entities with having state of object and its behaviour.
+
+### What is a Class?
+Class is a blueprint of that object. Or you can call class as generic information of that object.
+
+### What is Inheritance?
+Just like we inherit some feature from our parent or ancestor, simlilarly object derived from other object inherit characteristic from its parent object.
+### What is a Package/
+Package is a namespace for organising a related class and interface in logical manner. Just like boy, girl, man, and woman etc comes under human category we can consider Package as related class put toghther in logical way.
